@@ -9,7 +9,7 @@ I'm Giselle Balieiro!
 
 <table>
   <a href="https://github.com/GiselleBalieiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiselleBalieiro&layout=compact&langs_count=6&theme=tokyonight"/> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiselleBalieiro&layout=compact&langs_count=6&theme=tokyonight"/> 
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5"> 
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3"> 
   <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
