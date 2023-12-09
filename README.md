@@ -1,5 +1,5 @@
 # Hello Word 
-I'm Giselle Balieiro!
+- 👋 I'm Giselle Balieiro! 
 
 # About me 
 - 🎓 I'm studying Software Engineering. I also take complementary courses like the ones on the Alura platform to expand my knowledge.
