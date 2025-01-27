@@ -11,7 +11,7 @@
 ## 👩‍💻 **About Me**
 - 🎓 I'm studying **Software Engineering**. I also take complementary courses like the ones on the Alura platform to expand my knowledge.  
 - 💼 Currently, I am working at **Era** as a **Technical Support Analyst**.  
-- 🌱 Web developer with a solid foundation in **HTML, CSS, and JavaScript**, currently deepening knowledge in **TypeScript** and **Node.js**.  
+- 🌱 Web developer with a solid foundation in **HTML, CSS and JavaScript**, currently deepening knowledge in **TypeScript**, **Node.js** and **React**.  
 - 📫 How to find me: [**E-mail**](mailto:gisellefbalieiro)  
 
 ---
