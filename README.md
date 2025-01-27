@@ -49,6 +49,6 @@
 <div align="center">
   <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GiselleBalieiro&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800&locale=en&layout=compact" alt="GiselleBalieiro" style="max-width: 100%;">
   
-  <img align="center" width="395px" src="https://github-readme-stats.vercel.app/api?username=GiselleBalieiro&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800&locale=en" alt="GiselleBalieiro" style="max-width: 100%;">
+  <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api?username=GiselleBalieiro&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800&locale=en" alt="GiselleBalieiro" style="max-width: 100%;">
 </div>
 
