@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi! I'm Giselle Balieiro</h1>
 
-<p align="center">
+<p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F724DD&width=435&lines=A+front-end+developer...;A+developer..." alt="Typing SVG" />
   </a>
@@ -47,6 +47,7 @@
 
 ### 📊 **GitHub Stats**:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GiselleBalieiro&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiselleBalieiro&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </div>
+
