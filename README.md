@@ -51,7 +51,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=ffffff&style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=ffffff&style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=ffffff&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=ffffff&style=for-the-badge)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=ffffff&style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=ffffff&style=for-the-badge)
 
@@ -132,17 +131,12 @@ My personal site. It has an admin panel to edit content and an AI chatbot (RAG) 
 
 - **Stack:** React 19 · Vite 6 · Tailwind 4 · Framer Motion · Express API · MongoDB · Cloudinary
 
-### 🐘 PHP work
-- [api-php](https://github.com/GiselleBalieiro/api-php): REST API with JWT and webhook integrations for a Telegram bot and the Meta API.
-- [teste-pratico-php](https://github.com/GiselleBalieiro/teste-pratico-php): orders CRUD with JWT and PDO.
-- [controle-series](https://github.com/GiselleBalieiro/controle-series): Laravel 12 app with PHPUnit tests.
-
 ---
 
 ## 🧭 How I Work
 
 - 🔀 Feature branches and pull requests, with [Conventional Commits](https://www.conventionalcommits.org/).
-- ✅ Validation with Zod, and tests with Vitest and PHPUnit.
+- ✅ Validation with Zod, and tests with Vitest.
 - 🔐 Security from day one: JWT and bcrypt, rate limiting, helmet, captcha.
 - 🐳 Containerized services (Docker and docker-compose), deployed on Vercel and Railway.
 - 🤝 Real production work: client projects and products in daily use.
